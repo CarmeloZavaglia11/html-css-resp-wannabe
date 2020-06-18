@@ -7,17 +7,18 @@
 
 /* tablet brekpont */
 @media screen and (max-width: 768px){
-  .row{
-    width: 100%;
-    margin-top: 30px;
-}
+    .row{
+        width: 100%;
+        margin-top: 30px;
+        font-size: 15px;
+    }
 }
 /* phone breakpoint */
 @media screen and (max-width: 420px){
     .row{
         width: 100%;
         margin-top: 30px;
-        font-size: 62.5%;
+        font-size: 20px;
     }
 }
 
